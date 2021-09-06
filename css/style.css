@@ -1,0 +1,103 @@
+body{
+    background-image: linear-gradient(
+        115deg, rgba(58,58,158,0.8),
+        rgba(136,136,206,0.7)),
+        url(https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px ;
+    
+    font-family: 'Poppins', sans-serif;
+    
+}
+#title{
+    text-align:center;
+    margin-top: 50px;
+    color: white;
+    
+
+}
+#description{
+    text-align:center;
+    margin-bottom:30px;
+    margin-top: -20px;
+    color:white;
+    font-style:italic;
+
+}
+#survey-form{
+    margin-left: 15% ;
+    margin-right: 15%;
+    background-color: #292849;
+    border-radius: 5px;
+    padding:40px;
+    color:white;
+}
+#name,#email,#number{
+    margin: 10px 0;
+    width: 95%;
+    padding:10px;
+    border-radius: 6px;
+    height:25px;
+    font-size:20px ;
+}
+#dropdown{
+    width:99%;
+    height:46px;
+    border-radius: 6px;
+    font-size:20px ;
+    
+}
+input[type=checkbox]{
+    margin:10px;
+}
+
+#friend2,#friend3{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 15px;
+}
+
+#comments{
+    width:98%;
+    height:90px;
+    padding-bottom: 35px;
+    margin-bottom: 25px;
+    margin-top: 0px;
+    font-size:20px ;
+}
+
+#submit{
+    width:99%;
+    height: 50px;
+    font-size:18px ;
+    color:white;
+    background-color: rgb(36, 177, 99);
+    
+}
+.clue{
+    font-size: medium;
+}
+p{
+    margin-bottom: 8px;
+}
+#p2{
+    
+    margin-left: 0.25rem;
+  font-size: 0.9rem;
+  color: #e4e4e4;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px ;
+
+}
+#value{
+    width:99%;
+    height:46px;
+    border-radius: 6px;
+    font-size: 20px ;
+    
+}
+div{
+    margin-top: 10px;
+}
