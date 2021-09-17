@@ -101,3 +101,16 @@ p{
 div{
     margin-top: 10px;
 }
+@media (max-width:768px){
+    #title{
+        font-size: 30px;;
+    }
+    #survey-form{
+        width:auto;
+    }
+    #survey-form{
+        margin-left: 0% ;
+        margin-right: 0%;
+        padding:30px;
+    }
+}
